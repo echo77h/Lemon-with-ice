@@ -1,1 +1,1 @@
-<script>alert(1)</script> 
+<script>alert("雪子哥")</script> 
